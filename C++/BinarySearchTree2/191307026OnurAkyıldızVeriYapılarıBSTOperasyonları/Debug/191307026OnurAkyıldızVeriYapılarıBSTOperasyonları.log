@@ -1,0 +1,6 @@
+﻿  191307026OnurAkyıldızVeriYapılarıBSTOperasyonları.cpp
+C:\Users\onura\source\repos\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları.cpp(136): warning C4715: 'sayıkontrol': tüm denetim yolları değer döndürmez
+C:\Users\onura\source\repos\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları.cpp(152): warning C4715: 'ekle_tek': tüm denetim yolları değer döndürmez
+C:\Users\onura\source\repos\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları.cpp(168): warning C4715: 'ekle_çift': tüm denetim yolları değer döndürmez
+C:\Users\onura\source\repos\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları.cpp(195): warning C4715: 'çarpımfonk': tüm denetim yolları değer döndürmez
+  191307026OnurAkyıldızVeriYapılarıBSTOperasyonları.vcxproj -> C:\Users\onura\source\repos\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları\Debug\191307026OnurAkyıldızVeriYapılarıBSTOperasyonları.exe

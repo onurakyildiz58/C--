@@ -1,0 +1,12 @@
+﻿  191307026OnurAkyıldızÖdev1.cpp
+C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1.cpp(86,11): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1.cpp(112,14): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1.cpp(166,14): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1.cpp(166,11): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1.cpp(167,13): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1.cpp(167,10): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1.cpp(169,36): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1.cpp(169,33): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1.cpp(170,34): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1\191307026OnurAkyıldızÖdev1.cpp(170,31): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  191307026OnurAkyıldızÖdev1.vcxproj -> C:\Users\onura\source\repos\191307026OnurAkyıldızÖdev1\Debug\191307026OnurAkyıldızÖdev1.exe

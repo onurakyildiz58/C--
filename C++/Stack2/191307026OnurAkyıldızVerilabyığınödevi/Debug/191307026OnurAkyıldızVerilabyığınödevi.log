@@ -1,0 +1,4 @@
+﻿  191307026OnurAkyıldızVerilabyığınödevi.cpp
+C:\Users\onura\source\repos\191307026OnurAkyıldızVerilabyığınödevi\191307026OnurAkyıldızVerilabyığınödevi\191307026OnurAkyıldızVerilabyığınödevi.cpp(44): warning C4715: 'stack::pop': tüm denetim yolları değer döndürmez
+C:\Users\onura\source\repos\191307026OnurAkyıldızVerilabyığınödevi\191307026OnurAkyıldızVerilabyığınödevi\191307026OnurAkyıldızVerilabyığınödevi.cpp(92): warning C4715: 'yıgın::pop': tüm denetim yolları değer döndürmez
+  191307026OnurAkyıldızVerilabyığınödevi.vcxproj -> C:\Users\onura\source\repos\191307026OnurAkyıldızVerilabyığınödevi\Debug\191307026OnurAkyıldızVerilabyığınödevi.exe

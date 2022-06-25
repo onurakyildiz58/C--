@@ -1,0 +1,4 @@
+﻿  191307026OnurAkyıldızVeriLabHashTable.cpp
+C:\Users\onura\source\repos\C++\191307026OnurAkyıldızVeriLabHashTable\191307026OnurAkyıldızVeriLabHashTable\191307026OnurAkyıldızVeriLabHashTable.cpp(69,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\onura\source\repos\C++\191307026OnurAkyıldızVeriLabHashTable\191307026OnurAkyıldızVeriLabHashTable\191307026OnurAkyıldızVeriLabHashTable.cpp(62): warning C4715: 'Hash::search': tüm denetim yolları değer döndürmez
+  191307026OnurAkyıldızVeriLabHashTable.vcxproj -> C:\Users\onura\source\repos\C++\191307026OnurAkyıldızVeriLabHashTable\Debug\191307026OnurAkyıldızVeriLabHashTable.exe

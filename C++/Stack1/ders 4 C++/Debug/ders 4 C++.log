@@ -1,0 +1,3 @@
+﻿  ders 4 C++.cpp
+C:\Users\onura\source\repos\C++\ders 4 stack C++\ders 4 C++\ders 4 C++.cpp(45): warning C4715: 'stack::pop': tüm denetim yolları değer döndürmez
+  ders 4 C++.vcxproj -> C:\Users\onura\source\repos\C++\ders 4 stack C++\Debug\ders 4 C++.exe

@@ -1,0 +1,3 @@
+﻿  191307026OnurAkyıldızVeriLabMaxHeap.cpp
+191307026OnurAkyıldızVeriLabMaxHeap.obj : error LNK2019: çözümlenmemiş dış sembol "public: int __thiscall MaxHeap::extractMax(void)" (?extractMax@MaxHeap@@QAEHXZ) için "public: void __thiscall MaxHeap::deleteKey(int)" (?deleteKey@MaxHeap@@QAEXH@Z) işlevinde başvuruldu
+C:\Users\onura\source\repos\191307026OnurAkyıldızVeriLabMaxHeap\Debug\191307026OnurAkyıldızVeriLabMaxHeap.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
